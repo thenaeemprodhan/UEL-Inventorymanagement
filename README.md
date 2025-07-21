@@ -6,6 +6,14 @@ This is my first project, a simple command-line based Inventory Management Syste
 
 This application allows users to manage a product inventory through a console menu. You can add new products, update the stock of existing products, record sales, and generate a sales report. All data is stored in memory while the application is running.
 
+## 🎓 Project Context
+
+This project was submitted as part of the coursework for the University of East London.
+
+* **Module:** Learning Software Development
+* **Academic Year:** 2024-2025 (Year 1)
+* **Submission Date:** April 1, 2025
+
 ## ✨ Features
 
 The system provides the following features:
